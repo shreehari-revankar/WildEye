@@ -91,4 +91,6 @@ Enjoy exploring the world of animal detection using YOLO on the COCO dataset!
 
 ## License
 
-License: MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[MIT License Link](https://github.com/shreehari-revankar/WildEye/LICENSE)
