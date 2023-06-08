@@ -34,6 +34,45 @@ Our dataset consists of a diverse collection of images showcasing various animal
 
 Transfer learning is a technique that enables leveraging the knowledge learned from a pre-trained model and applying it to a new task or dataset. In this project, we utilize transfer learning with a pre-trained YOLO model on the COCO dataset. By utilizing the pre-trained weights, we can accelerate the training process and enhance the performance of the animal detection model.
 
+# Dependencies
+
+* [TensorFlow.js](https://www.tensorflow.org/js)
+* [Keras](https://keras.io/)
+* [npm](https://www.npmjs.com/)
+* [React.js](https://reactjs.org/)
+
+# Installation
+
+### Prerequisites
+
+Install Node.js and npm using the link above. Follow instructions on their respective websites. Npm is included with Node.js
+
+### Instructions
+
+Clone the repository
+```bash
+git clone https://github.com/shreehari-revankar/WildEye.git
+```
+
+Install all the dependencies
+```bash
+cd WildEye
+npm install
+```
+
+# Usage
+
+Run the project
+```bash
+cd WildEye
+npm start
+```
+
+Open a web browser and go to
+```bash
+http://localhost:3000
+```
+
 ## License
 
 This project is licensed under the MIT License. Feel free to modify and distribute it according to the terms of the license.
