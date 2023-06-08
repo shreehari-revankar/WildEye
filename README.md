@@ -85,7 +85,7 @@ We would like to acknowledge the creators of the COCO dataset and the YOLO algor
 
 ## Contact
 
-For any inquiries or questions, please free to contact.
+For any inquiries or questions, please feel free to contact.
 
 Enjoy exploring the world of animal detection using YOLO on the COCO dataset!
 
