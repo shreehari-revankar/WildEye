@@ -15,4 +15,4 @@ For any inquiries or questions, please free to contact free.
 
 Enjoy exploring the world of animal detection using YOLO on the COCO dataset!
 
-License: MIT
+[License: MIT]
