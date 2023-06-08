@@ -1,0 +1,46 @@
+.top-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1000px) {
+    .top-div {
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+}
+
+.section-div {
+    width: 33%;
+    padding: 20px;
+}
+
+.selected-div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    background-color: #ffe0e8;
+    border-radius: 8px;
+    border-color: #540015;
+    border-style: solid;
+    border-width: 2px; 
+}
+
+.deselected-div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center; 
+    background-color: #950740; 
+    border-radius: 8px;
+}
+
+.selected-text {
+    font-weight: 500;
+    color: #540015;
+}
+
+.deselected-text {
+    font-weight: 400;
+    color: white;
+}
