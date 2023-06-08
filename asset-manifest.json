@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WildEye/static/css/main.c9be5dd4.css",
+    "main.js": "/WildEye/static/js/main.4a6794bd.js",
+    "static/media/react.png": "/WildEye/static/media/react.6c4b397cf28f0a8dfbcb.png",
+    "static/media/tf.png": "/WildEye/static/media/tf.530689d2846acbed681c.png",
+    "static/media/keras.png": "/WildEye/static/media/keras.50b636f01e50d9f2d513.png",
+    "index.html": "/WildEye/index.html",
+    "main.c9be5dd4.css.map": "/WildEye/static/css/main.c9be5dd4.css.map",
+    "main.4a6794bd.js.map": "/WildEye/static/js/main.4a6794bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9be5dd4.css",
+    "static/js/main.4a6794bd.js"
+  ]
+}
